@@ -1,0 +1,5 @@
+4
+Ahmed 2 10 1 0
+Kareem 3 20 3 0
+Sara 1 30 4 0
+Mohammed 4 20 1 0
